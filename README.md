@@ -13,11 +13,11 @@ I am interested in system security, networking, and ...
 ## Projects
 - Password Strength Checker (Python)  
  A Python-based tool that checks password strength using:
-- Length
-- Uppercase & lowercase letters
-- Numbers
-- Special characters
+  - Length
+  - Uppercase & lowercase letters
+  - Numbers
+  - Special characters
 
-Includes:
-- CLI version (basic)
-- GUI version using Tkinter
+   Includes:
+    - CLI version (basic)
+    - GUI version using Tkinter

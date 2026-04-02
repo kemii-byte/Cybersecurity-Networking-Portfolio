@@ -11,4 +11,5 @@ I am interested in system security, networking, and ...
 - System vulnerabilities
 
 ## Projects
-- ()
+- Password Strength Checker (Python)  
+  A simple tool that evaluates password strength based on length, characters, and complexity.
